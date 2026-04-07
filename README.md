@@ -15,8 +15,8 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Back-end com foco em Python e conhecimento em JavaScript e C# 
-Tenho interesse em segurança da informação e estou construindo projetos reais para evoluir minhas habilidades.
+Desenvolvedor Back-end com foco em Python e conhecimento em JavaScript e C#.  
+Focado em segurança da informação e no desenvolvimento de projetos reais.
 
 ---
 
@@ -43,7 +43,7 @@ Tenho interesse em segurança da informação e estou construindo projetos reais
 ### 🌐 Front-end
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML- E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
@@ -79,11 +79,13 @@ Tenho interesse em segurança da informação e estou construindo projetos reais
   <img src="https://img.shields.io/badge/Cyber%20Threat%20Management-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
+---
+
 ## 📊 Estatísticas
 
 <p align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas16-code&show_icons=true&theme=tokyonight"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16-code&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas16-code&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
