@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Fonte</h1>
 
 <p align="center">
+  Bem-vindo ao meu perfil no GitHub
+</p>
+
+<p align="center">
   💻 Desenvolvedor Back-end em formação <br>
   🎓 Análise e Desenvolvimento de Sistemas (Estácio) <br>
   🔐 Focado em Cybersecurity (SOC Analyst) <br>
@@ -78,8 +82,8 @@ Tenho interesse em segurança da informação e estou construindo projetos reais
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas16-code&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16-code&layout=compact&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas16-code&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16-code&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
