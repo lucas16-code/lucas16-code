@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1>Olá, pessoal. Meu nome é Lucas Fonte 👋</h1>
 
-<!--
-**lucas16-code/lucas16-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação focado em back-end com Python e interessado em segurança da informação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Minha linha de estudo:
+
+- 💻 Desenvolvimento Back-end (Python + FastAPI)
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript, React)
+- 🛢️ Banco de Dados (PostgreSQL)
+- 🔐 Segurança da Informação (Cybersecurity / SOC)
+
+---
+
+## 💻 Skills
+
+### 🧠 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 🛢️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🖥️ IDEs
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📫 Me encontre:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfonte16/)
