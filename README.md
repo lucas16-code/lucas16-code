@@ -15,17 +15,17 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Back-end com foco em Python e conhecimento em JavaScript e C#.  
+Desenvolvedor Back-end em formação com foco em Python e conhecimento em JavaScript e C#.  
 Focado em segurança da informação e no desenvolvimento de projetos reais.
 
 ---
 
 ## 📚 Minha linha de estudo
 
-- 💻 Back-end com Python (FastAPI)
-- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript, React)
-- 🛢️ Banco de Dados (PostgreSQL)
-- 🔐 Segurança da Informação (Cybersecurity / SOC)
+- 💻 Back-end com Python e FastAPI
+- 🌐 Desenvolvimento Web com HTML, CSS, JavaScript e React
+- 🛢️ Banco de Dados com PostgreSQL
+- 🔐 Segurança da Informação com foco em SOC e análise de ameaças
 
 ---
 
@@ -38,8 +38,6 @@ Focado em segurança da informação e no desenvolvimento de projetos reais.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
----
-
 ### 🌐 Front-end
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -47,26 +45,21 @@ Focado em segurança da informação e no desenvolvimento de projetos reais.
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
 ### ⚙️ Back-end
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
----
 
 ### 🛢️ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
 ### 🧰 Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -81,19 +74,10 @@ Focado em segurança da informação e no desenvolvimento de projetos reais.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas16-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16-code&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasfonte16/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
